@@ -40,7 +40,7 @@ console:
 
 Perform the following steps:
 
--   navigate to the directory with the `2393033_1864691_src` script and
+-   navigate to the directory with the `src.ipynb` script and
     excecute the script
 -   make sure your images folder is saved in the correct directory
 
