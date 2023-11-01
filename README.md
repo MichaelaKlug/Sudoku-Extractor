@@ -3,8 +3,6 @@
 
 ### Done by: Michaela Klug, Tristen Haverly
 
-### Student Numbers: 2393033, 1864691
-
 ## Description
 
 This Python code is designed to help solve Sudoku puzzles using computer
@@ -18,7 +16,7 @@ puzzle from the image as a text-based grid.
 
 ## Structure
 
--   `2393033_1864691_src` is the script
+-   `src.ipynb` is the script
 -   `Images` contains sample images
 -   `Sqaures` will contain the images of the sqaures to be passed into
     the digit recognition model
