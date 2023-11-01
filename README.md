@@ -29,7 +29,7 @@ installed:
 OpenCV (cv2) NumPy (numpy) scikit-image (skimage) matplotlib
 (matplotlib) scipy (scipy) TensorFlow (tensorflow)
 
-You can install these dependencies using the followiing command in your
+You can install these dependencies using the following command in your
 console:
 
 #### pip install opencv-python numpy scikit-image matplotlib scipy tensorflow
